@@ -90,9 +90,6 @@ Please make sure to update tests as appropriate and adhere to the project's codi
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-For any questions or inquiries, please contact us at support@labourbridge.ai.
 
 ---
 
