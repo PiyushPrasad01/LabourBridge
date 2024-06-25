@@ -11,7 +11,6 @@ LabourBridge is an innovative platform designed to create a direct link between 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
